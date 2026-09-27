@@ -1,8 +1,8 @@
-# Hola, soy Michael Banda
+# Michael Banda
 
-Profesional de Soporte TI con experiencia en Microsoft 365, Active Directory, soporte técnico corporativo y resolución de incidencias.
+IT Support Specialist | Active Directory | Microsoft 365 | Linux | Networking | Aspiring SOC Analyst
 
-## Actualmente aprendiendo
+## Roadmap de Aprendizaje
 
 - Linux Mint XFCE
 - Redes TCP/IP
@@ -12,7 +12,7 @@ Profesional de Soporte TI con experiencia en Microsoft 365, Active Directory, so
 
 ## Objetivo Profesional
 
-Mi objetivo es evolucionar desde Soporte TI hacia SOC Analyst y posteriormente especializarme en Cloud Security.
+Mi objetivo es evolucionar desde Soporte TI hacia SOC Analyst mediante experiencia práctica en Linux, Redes y Ciberseguridad, para posteriormente especializarme en Cloud Security.
 
 ## Home Lab 2026
 
